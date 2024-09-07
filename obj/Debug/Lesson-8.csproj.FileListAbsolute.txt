@@ -1,0 +1,7 @@
+D:\Старый я\Скиллбокс\Lesson-8\Lesson-8\bin\Debug\Lesson-8.exe.config
+D:\Старый я\Скиллбокс\Lesson-8\Lesson-8\bin\Debug\Lesson-8.exe
+D:\Старый я\Скиллбокс\Lesson-8\Lesson-8\bin\Debug\Lesson-8.pdb
+D:\Старый я\Скиллбокс\Lesson-8\Lesson-8\obj\Debug\Lesson-8.csproj.AssemblyReference.cache
+D:\Старый я\Скиллбокс\Lesson-8\Lesson-8\obj\Debug\Lesson-8.csproj.CoreCompileInputs.cache
+D:\Старый я\Скиллбокс\Lesson-8\Lesson-8\obj\Debug\Lesson-8.exe
+D:\Старый я\Скиллбокс\Lesson-8\Lesson-8\obj\Debug\Lesson-8.pdb
